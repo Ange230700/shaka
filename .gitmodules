@@ -1,3 +1,6 @@
 [submodule "shaka_database"]
 	path = shaka_database
 	url = git@github.com:Ange230700/shaka_database.git
+[submodule "shaka_backend"]
+	path = shaka_backend
+	url = git@github.com:Ange230700/shaka_backend.git
